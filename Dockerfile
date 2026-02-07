@@ -1,3 +1,4 @@
+# Updated version with cowsay
 FROM rocker/rstudio:4.4.2
 
 # Install system dependencies
